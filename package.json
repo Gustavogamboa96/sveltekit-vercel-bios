@@ -17,6 +17,7 @@
   "dependencies": {
     "@sveltejs/adapter-auto": "^1.0.0-next.18",
     "@sveltejs/adapter-vercel": "^1.0.0-next.0",
+    "svelte-preprocess": "^4.10.2",
     "twit": "^2.2.11"
   }
 }
